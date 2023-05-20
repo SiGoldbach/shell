@@ -1,0 +1,15 @@
+-rwxrwxrwx 1 sebastian sebastian    0 Sep 26 15:31 testfile.txr
+-rwxrwxrwx 1 sebastian sebastian    0 Sep 28 11:30 funfile.txt
+-rwxrwxrwx 1 sebastian sebastian    6 Sep 26 16:45 testfile.txt
+-rwxrwxrwx 1 sebastian sebastian    9 Sep 28 11:12 bigfilexd.txt
+-rwxrwxrwx 1 sebastian sebastian   13 Sep 27 13:29 hellofile.txt
+-rwxrwxrwx 1 sebastian sebastian   41 Sep 28 11:20 biggestfile.txt
+-rwxrwxrwx 1 sebastian sebastian   47 Sep 26 15:52 frugt.txt
+-rwxrwxrwx 1 sebastian sebastian   81 Sep 28 10:22 shell.py
+-rwxrwxrwx 1 sebastian sebastian  359 Sep 26 16:45 testing.py
+-rwxrwxrwx 1 sebastian sebastian  616 Sep 28 11:04 notes.ipynb
+-rwxrwxrwx 1 sebastian sebastian 2397 Sep 26 16:37 dummyShell.py
+-rwxrwxrwx 1 sebastian sebastian 3769 Sep 28 11:31 main.py
+drwxrwxrwx 1 sebastian sebastian 4096 Sep 24 14:40 ImportantFiles
+drwxrwxrwx 1 sebastian sebastian 4096 Sep 27 20:46 music
+total 12
